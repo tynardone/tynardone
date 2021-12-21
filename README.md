@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @tynardone
-- 👀 I’m interested in Data Science and Python Programming
-- 🌱 I’m currently learning Exploratory Data Analysis with Pandas
+- 👀 I’m interested in Python programming for web applications and data science/machine learning. 
+- 
+
+
+
 
 
 <!---
