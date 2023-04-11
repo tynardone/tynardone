@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @tynardone
-- 👀 I’m interested in Python programming for web applications and data science/machine learning. 
-- 
+👋 Hi, I’m @tynardone. I’m interested in Python programming for web applications and data science/machine learning. 
+
 
 
 
