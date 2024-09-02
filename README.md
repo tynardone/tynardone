@@ -1,5 +1,4 @@
-👋 Hi, I’m @tynardone. I’m interested in Python programming for web applications and data science/machine learning. 
-
+👋 Hi, I’m Tyler Nardone! I am a data anlayst and self-taught python programmer on a journey of continous learning! I started my career as a lab biologist, then field ecologist, and almost started a PhD in Quantitative Ecology before deciding that was not the path for me and entered the workforce. I discovered analytics as a career and found a late-blooming enjoyment in programming in Python and SQL. 
 
 
 
